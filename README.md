@@ -4,9 +4,11 @@
 
 ### 🤖 AI-Augmented Developer | ⚡ RPA Specialist | 🔧 Power Platform Expert
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asem-alakabani/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asem-alakabani-4502a0242/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asemalakabani@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+
+<img src="https://raw.githubusercontent.com/AsemHub/AsemHub/output/github-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
