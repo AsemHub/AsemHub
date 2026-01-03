@@ -6,9 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asem-alakabani-4502a0242/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asemalakabani@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
-
-<img src="https://raw.githubusercontent.com/AsemHub/AsemHub/output/github-snake-dark.svg" alt="Snake animation" />
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsemHub)
 
 </div>
 
@@ -84,31 +82,19 @@ From **Syria** → **Powercoders Bootcamp** → **Enterprise Developer** — my 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsemHub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsemHub&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AsemHub&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🌟 Featured Projects
 
-<div align="center">
+### 🔍 [Syria Detainee Finder](https://github.com/AsemHub/syria-detainee-finder)
+A humanitarian project to help families search for detained loved ones. Built with HTML/CSS/JS.
 
-[![Syria Detainee Finder](https://github-readme-stats.vercel.app/api/pin/?username=AsemHub&repo=syria-detainee-finder&theme=tokyonight)](https://github.com/AsemHub/syria-detainee-finder)
-[![PowerCoders BootCamp](https://github-readme-stats.vercel.app/api/pin/?username=AsemHub&repo=PowerCoders-BootCamp&theme=tokyonight)](https://github.com/AsemHub/PowerCoders-BootCamp)
+### 💻 [PowerCoders BootCamp](https://github.com/AsemHub/PowerCoders-BootCamp)
+Projects and exercises from my full-stack development bootcamp journey.
 
-</div>
+### 🎮 [Hangman Angular](https://github.com/AsemHub/hangman-angular)
+Classic hangman game built with Angular and TypeScript.
+
+### 😂 [The Jokes WebApp](https://github.com/AsemHub/TheJokesWebApp)
+A fun web application built with C# and ASP.NET.
 
 ---
 
@@ -116,9 +102,10 @@ From **Syria** → **Powercoders Bootcamp** → **Enterprise Developer** — my 
 
 <div align="center">
 
-![Arctic Code Vault](https://img.shields.io/badge/Arctic_Code_Vault-Contributor-blue?style=for-the-badge)
-![Pull Shark](https://img.shields.io/badge/Pull_Shark-🦈-orange?style=for-the-badge)
-![Pair Extraordinaire](https://img.shields.io/badge/Pair_Extraordinaire-👥-green?style=for-the-badge)
+![Arctic Code Vault](https://img.shields.io/badge/🏔️_Arctic_Code_Vault-Contributor-blue?style=for-the-badge)
+![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-Achieved-orange?style=for-the-badge)
+![Pair Extraordinaire](https://img.shields.io/badge/👥_Pair_Extraordinaire-Achieved-green?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/🎯_YOLO-Achieved-red?style=for-the-badge)
 
 </div>
 
