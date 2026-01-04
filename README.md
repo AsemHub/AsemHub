@@ -87,15 +87,6 @@ From **Syria** → **Powercoders Bootcamp** → **Enterprise Developer** — my 
 ### 🔍 [Syria Detainee Finder](https://github.com/AsemHub/syria-detainee-finder)
 A humanitarian project to help families search for detained loved ones. Built with HTML/CSS/JS.
 
-### 💻 [PowerCoders BootCamp](https://github.com/AsemHub/PowerCoders-BootCamp)
-Projects and exercises from my full-stack development bootcamp journey.
-
-### 🎮 [Hangman Angular](https://github.com/AsemHub/hangman-angular)
-Classic hangman game built with Angular and TypeScript.
-
-### 😂 [The Jokes WebApp](https://github.com/AsemHub/TheJokesWebApp)
-A fun web application built with C# and ASP.NET.
-
 ---
 
 ## 🏆 Achievements
