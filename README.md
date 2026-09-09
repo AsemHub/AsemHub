@@ -1,142 +1,57 @@
 <div align="center">
 
-# Hey there! I'm Asem 👋
+# Asem Alakabani
 
-### 🤖 AI-Augmented Developer | ⚡ RPA Specialist | 🔧 Power Platform Expert
+### Software engineer moving into applied / agentic AI — open to AI-native roles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asem-alakabani-4502a0242/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asemalakabani@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsemHub)
-<img src="https://raw.githubusercontent.com/AsemHub/AsemHub/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
+[![Portfolio](https://img.shields.io/badge/asemalakabani.dev-Ask_my_AI_assistant-0F766E?style=for-the-badge)](https://asemalakabani.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-asem--alakabani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asem-alakabani)
+[![Email](https://img.shields.io/badge/Email-asemalakabani%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asemalakabani@gmail.com)
 
----
-
-## 🚀 About Me
-
-```yaml
-name: Asem Alakabani
-location: 🇮🇹 Turin, Italy | 🇪🇸 Madrid, Spain
-company: Aubay Italia S.p.A.
-role: Power Platform Specialist & RPA Developer
-
-current_focus:
-  - Building intelligent automation for enterprise clients
-  - Exploring AI coding agents (Claude Code, Cline, CodeMachine)
-  - Creating custom MCP servers and skills
-  - Vibe coding & context engineering experiments
-
-languages_spoken: [Arabic 🇸🇦, English 🇬🇧, Italian 🇮🇹, Spanish 🇪🇸]
-```
-
-I'm a developer who believes **AI should amplify human creativity, not replace it**. Every day, I use AI coding agents to build production-grade automation solutions for banking, energy, and luxury sectors.
-
-From **Syria** → **Powercoders Bootcamp** → **Enterprise Developer** — my journey taught me that code can open doors across any border.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🤖 AI & Automation
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=power-apps&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🧠 AI Tools I Use Daily
-![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+Turin, Italy · Arabic / English / Italian / Spanish
 
 </div>
 
 ---
 
-## 🎯 What I'm Building
+## Where I'm heading
 
-| 🏦 **Enterprise RPA** | 🤖 **AI Integration** | 🔧 **MCP Development** |
-|:---:|:---:|:---:|
-| Automating banking workflows | Custom AI coding workflows | Building MCP servers & skills |
-| Power Platform solutions | Prompt engineering | Context engineering |
-| 600+ POD/month billing automation | API integrations | Desktop Commander configs |
+An AI-native role. My current job is solid and I'm good at it, but AI is a tool there, not the product. I want to build the thing itself — agents, retrieval, evaluation, and the reliability layer that makes LLM systems trustworthy in production — on a team where that is the core work. If that's what you're hiring for, I'd like to talk.
 
----
+## What I build
 
-## 🌟 Featured Projects
+Most of these repos are private (client-adjacent code and live trading keys). The write-ups, with architecture and outcomes, are on [asemalakabani.dev](https://asemalakabani.dev) — and its assistant will answer questions about any of them, citing its sources.
 
-### 🔍 [Syria Detainee Finder](https://github.com/AsemHub/syria-detainee-finder)
-A humanitarian project to help families search for detained loved ones. Built with HTML/CSS/JS.
+| Project | What it is | Stack |
+|---|---|---|
+| **Portfolio AI assistant** — [live](https://asemalakabani.dev) | Tool-calling assistant that answers questions about my work by retrieving from a confidentiality-gated career knowledge base, with a source citation on every answer. Every deploy passes an eval gate in CI: adversarial leak probes, anti-fabrication checks, and a deterministic retrieval-accuracy metric, with the latency cost of each change measured before it ships. | Next.js, TypeScript, Claude API, promptfoo |
+| **AI agents & assistants** | A cluster of four personal projects across web, browser, and mobile: a bilingual prompting platform and multi-surface email-reply agents. Multi-provider LLM integration behind one interface, schema-validated tool inputs, anti-hallucination guardrails. | TypeScript, Kotlin, Supabase |
+| **Signal-driven trading bots** | Telegram trading signals ingested as text *and* chart screenshots, parsed by an LLM + vision pipeline into structured orders, executed with risk management. Event-driven, ~800 tests per repo. | Python, TypeScript, asyncio |
+| **Rust streaming app** — [rqbit fork](https://github.com/AsemHub/rqbit) | Cross-platform Tauri app streaming video over BitTorrent on a patched engine (tail-piece prefetch so playback starts before the download finishes). | Rust, Tauri |
+| [**Syria Detainee Finder**](https://github.com/AsemHub/syria-detainee-finder) | Humanitarian search tool to help families look for detained relatives. | HTML, CSS, JS |
 
----
+## Background
 
-## 🏆 Achievements
+Five years inside enterprise delivery at **Aubay** — unattended RPA robots, Power Platform apps, and full-stack work for energy, banking, luxury, telecom, and media clients (ENGIE, MPS, Bvlgari among them). Since May 2026, **L2 application support** for a telecom operator's order pipeline at Accenture (via Aubay) for Fastweb-Vodafone: tracing stuck orders across systems with SQL and shell, and scripting the repetitive parts of the job out of existence.
 
-<div align="center">
+The thread through all of it is **reliability engineering**. The discipline that keeps an unattended robot alive in production — graceful degradation, correlation-traced logging, verification built into the automation, human-in-the-loop boundaries — is what I bring to AI work. The agent reasons and orchestrates; a deterministic bot does the execution, and I keep that boundary explicit rather than relabeling scripted automation as "an agent".
 
-![Arctic Code Vault](https://img.shields.io/badge/🏔️_Arctic_Code_Vault-Contributor-blue?style=for-the-badge)
-![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-Achieved-orange?style=for-the-badge)
-![Pair Extraordinaire](https://img.shields.io/badge/👥_Pair_Extraordinaire-Achieved-green?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/🎯_YOLO-Achieved-red?style=for-the-badge)
+## Stack
 
-</div>
+**AI & automation:** Python · LLM / tool-calling agents · LLM evals & observability · prompt engineering · LLM + vision · MCP · Power Automate (Desktop + Cloud) · Power Apps / Power Fx · Dataverse
+**Software:** TypeScript · Next.js · Supabase / PostgreSQL · Rust · SQL · shell
+**In progress:** Microsoft AI Agent Builder (AB-620) · Anthropic Academy (Claude API, MCP, agent skills)
 
----
+## How I work
 
-## 📈 Current Focus & Interests
-
-```javascript
-const asem = {
-    currentlyLearning: ["X402 Protocol", "Agentic Open Economy", "Advanced MCP Development"],
-    askMeAbout: ["Power Platform", "RPA", "AI Coding Agents", "Context Engineering"],
-    technologies: {
-        rpa: ["Power Automate Cloud", "Power Automate Desktop", "Power Apps"],
-        ai: ["Claude API", "OpenAI API", "MCP Servers", "n8n"],
-        fullStack: ["React", "Angular", "C#", "Java", "Node.js"]
-    },
-    funFact: "I debug with AI assistants but still talk to my rubber duck 🦆"
-};
-```
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-💬 **Ask me about:** Power Platform, RPA, AI-augmented development, or my journey from Syria to tech!
-
-📫 **Reach me at:** [asemalakabani@gmail.com](mailto:asemalakabani@gmail.com)
-
-🌍 **Based in:** Turin 🇮🇹 / Madrid 🇪🇸
-
-</div>
+I use AI coding agents (Claude Code) daily, under a written set of [rules](https://asemalakabani.dev): query before assuming, measure before fixing, verify every state change, document every solved problem. The same rules gate the assistant that runs my portfolio.
 
 ---
 
 <div align="center">
 
-### 💭 *"Code is the universal language that transcends borders."*
+<img src="https://raw.githubusercontent.com/AsemHub/AsemHub/output/github-snake-dark.svg" alt="Contribution snake" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=AsemHub&color=blueviolet&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=AsemHub&color=0F766E&style=flat-square)
 
 </div>
